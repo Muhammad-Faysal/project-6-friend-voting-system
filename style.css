@@ -1,0 +1,32 @@
+body{
+
+
+    background-image: url(sea-1682198_1280.jpg);
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.sh{
+
+    background-color: rgba(34, 111, 11, 0.142);
+
+}
+
+
+
+li{
+
+    color: rgba(63, 88, 5, 0.975);
+
+
+}
+
+.txt{
+
+color: bisque;
+}
+
